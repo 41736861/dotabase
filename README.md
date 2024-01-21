@@ -1,2 +1,2 @@
 # dotabase
-In-browser graphical Dota 2 hero database.
+In-browser graphical _Dota 2_ hero database.
